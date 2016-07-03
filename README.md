@@ -24,4 +24,4 @@ Coming soon.
 * **MVP**: Model-View-Presenter
 * **MVVM**: Model-View-ViewModel (using Android Data Binding)
 
-![Screenshot](https://raw.githubusercontent.com/remychantenay/Mundo/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/remychantenay/Mundo/master/screenshots.png)
