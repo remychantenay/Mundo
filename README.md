@@ -5,7 +5,7 @@ Coming soon.
 
 ## Featuring
 * Mondo API
-* Dependency Injection (Dagger 2) -> Moving to Shank
+* Dependency Injection (Dagger 2)
 * ButterKnife
 * RxJava (using operators and transformations)
 * GSON
