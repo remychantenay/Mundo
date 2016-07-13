@@ -3,6 +3,8 @@ Android client app for Mondo.
 
 Coming soon.
 
+![Screenshot](https://raw.githubusercontent.com/remychantenay/Mundo/master/screenshots.png)
+
 ## Featuring
 * Mondo API
 * Dependency Injection (Dagger 2)
@@ -23,5 +25,3 @@ Coming soon.
 ## Patterns
 * **MVP**: Model-View-Presenter
 * **MVVM**: Model-View-ViewModel (using Android Data Binding)
-
-![Screenshot](https://raw.githubusercontent.com/remychantenay/Mundo/master/screenshots.png)
